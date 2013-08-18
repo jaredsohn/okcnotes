@@ -11,4 +11,5 @@ Greasemonkey script can also be found here: http://userscripts.org/scripts/show/
 
 Chrome extension can be downloaded from the webstore here: https://chrome.google.com/webstore/detail/gbcoffndindolafepaoogjncijiempep/ or can be installed manually by checking out files and pointing Chrome to the chrome/ folder.
 
+
 Pull requests welcome.
