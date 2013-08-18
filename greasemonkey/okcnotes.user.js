@@ -2,7 +2,7 @@
 // @name          OKCupid Notes
 // @namespace     okcupidnotes
 // @description   Adds back 'Notes' button to OkCupid
-// @include       *okcupid.com/profile/*
+// @include       http://www.okcupid.com/profile/*
 // ==/UserScript==
 
 notes = document.createElement("notes");
