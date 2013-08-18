@@ -9,7 +9,6 @@ Currently available as a Greasemonkey script and a Chrome extension.
 
 Greasemonkey script can also be found here: http://userscripts.org/scripts/show/176001
 
-Chrome extension not in webstore yet and requires files are checked out and that Chrome is pointed to the chrome/ folder.  TODO: replace icons.
-
+Chrome extension can be downloaded from the webstore here: https://chrome.google.com/webstore/detail/gbcoffndindolafepaoogjncijiempep/ or can be installed manually by checking out files and pointing Chrome to the chrome/ folder.
 
 Pull requests welcome.
