@@ -9,7 +9,7 @@ Currently available as a Greasemonkey script and a Chrome extension.
 
 Greasemonkey script can also be found here: http://userscripts.org/scripts/show/176001
 
-Chrome extension not in webstore yet and requires files are checked out and that Chrome is pointed to the chrome/ folder.  TODO: replace icons.
+Chrome extension not in webstore yet and requires files are checked out and that Chrome is pointed to the chrome/ folder.  Also, the icons are generic.
 
 
 Pull requests welcome.
