@@ -1,0 +1,26 @@
+{
+  "name": "OkCupid Notes",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Adds back notes button to OkCupid",
+  "homepage_url": "http://www.github.com/jaredsohn/okcnotes",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "default_locale": "en",
+  "permissions": [
+    "http://www.okcupid.com/profile/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "http://www.okcupid.com/profile/*"
+      ],
+      "js": [
+        "src/inject/inject.js"
+      ]
+    }
+  ]
+}
