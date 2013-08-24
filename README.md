@@ -1,7 +1,7 @@
 okcnotes
 ========
 
-OkCupid recently removed their 'Notes' button.  This project adds it back.
+OkCupid recently removed the 'Notes' button.  This project adds it back.
 
 Inspired by jbx0 on Reddit: http://www.reddit.com/r/OkCupid/comments/1kl3xc/bringing_back_notes_with_a_bookmarklet_a_howto/
 
