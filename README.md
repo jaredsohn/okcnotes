@@ -13,3 +13,7 @@ The Chrome extension can be downloaded from the webstore here: https://chrome.go
 
 
 Pull requests welcome.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jaredsohn/okcnotes/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
